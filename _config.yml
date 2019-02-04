@@ -3,7 +3,7 @@ title: Bible Topics and references
 description: Exposing bible references and associated topics
 show_downloads: false
 show_wiki_pages: true
-show_wiki_pages_limit: 0
+show_wiki_pages_limit: 20
 paginate: 5
 paginate_path: "/blog/page:num"
 blog_feature: false
